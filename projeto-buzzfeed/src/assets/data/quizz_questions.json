@@ -1,0 +1,100 @@
+{
+    "title":"Herói ou vilão ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual super poder você escolheria ?",
+        "options":[
+          {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+          {"id": 2, "name":"Voar", "alias":"B"},
+          {"id": 3, "name":"Explodir coisas", "alias":"A"},
+          {"id": 4, "name":"Curar feridas", "alias":"B"},
+          {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Quem você salvaria primeiro ?",
+        "options":[
+          {"id": 1, "name":"Crianças", "alias":"A"},
+          {"id": 2, "name":"Idosos", "alias":"A"},
+          {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+        "options":[
+          {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+          {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+          {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+          {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual o seu maior foco ?",
+        "options":[
+          {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
+          {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Quando confrontado com uma situação difícil, você:",
+        "options":[
+          {"id": 1, "name":"Usa a violência para resolver o problema", "alias":"A"},
+          {"id": 2, "name":"Procura uma solução justa e pacífica", "alias":"B"},
+          {"id": 3, "name":"Age de maneira egoísta para proteger seus próprios interesses", "alias":"A"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Qual é a sua opinião sobre a lei?",
+        "options":[
+          {"id": 1, "name":"Eu não me importo com as leis, eu faço o que quero", "alias":"A"},
+          {"id": 2, "name":"Acredito que as leis são importantes para manter a ordem e proteger as pessoas", "alias":"B"},
+          {"id": 3, "name":"As leis são apenas uma maneira de controlar as pessoas e limitar sua liberdade", "alias":"A"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Como você se relaciona com outras pessoas?",
+        "options":[
+          {"id": 1, "name":"Eu geralmente sou egoísta e só me importo com o que as outras pessoas podem fazer por mim", "alias":"A"},
+          {"id": 2, "name":"Eu gosto de manipular as pessoas para conseguir o que quero", "alias":"A"},
+          {"id": 3, "name":"Eu tento ser gentil e compreensivo com todos, e me preocupo com o bem-estar dos outros", "alias":"B"}
+        ]
+      },
+      {
+        "id":8,
+        "question": "Qual é a sua opinião sobre a violência?",
+        "options":[
+          {"id": 1, "name":"Eu adoro violência e acho que é uma maneira eficaz de resolver conflitos", "alias":"A"},
+          {"id": 2, "name":"Eu acho que a violência pode ser necessária às vezes, dependendo da situação", "alias":"A"},
+          {"id": 3, "name":"Eu acredito que a violência nunca é a resposta e que deve ser evitada a todo custo", "alias":"B"}
+        ]
+      },
+      {
+        "id":9,
+        "question": "Como você se sente em relação às regras sociais?",
+        "options":[
+          {"id": 1, "name":"Eu acho que as regras sociais são importantes e devem ser seguidas para manter a ordem e a harmonia na sociedade", "alias":"B"},
+          {"id": 2, "name":"Eu acho que as regras sociais são uma construção artificial e desnecessária que devem ser ignoradas", "alias":"A"},
+          {"id": 3, "name":"Eu gosto de quebrar as regras sociais só para causar problemas e ver as pessoas irritadas", "alias":"A"}
+        ]
+      },
+      {
+        "id":10,
+        "question": "Qual o seu apelido de super ser ?",
+        "options":[
+          {"id": 1, "name":"Abominavel", "alias":"A"},
+          {"id": 2, "name":"Amigo", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você seria um super vilão!",
+      "B": "Você seria um super Herói!"
+    }
+  }
